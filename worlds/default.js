@@ -21,7 +21,7 @@ export function init(Constants) {
 
     Constants.UserBehaviorDirectory = "behaviors/default";
     Constants.UserBehaviorModules = [
-        "csmLights.js", 'loadCards.js', 'spideyJumpOnApproach.js', 'urlLink.js'
+        "csmLights.js", 'loadCards.js', 'replaceWorld.js', 'spideyJumpOnApproach.js', 'urlLink.js'
     ];
 
     Constants.DefaultCards = [

@@ -162,10 +162,10 @@ class LoadActor {
                     "pointer"
                 ],
                 behaviorModules: [
-                    "URLLink"
+                    "ReplaceWorld"
                 ],
                 reuseTab: true,
-                cardURL: "https://matt.engagelively.com/bay-portal/index.html",
+                replaceWorldTargetURL: "https://ultisim.github.io/RicosWorld",
                 "modelType": "img",
                 "name": "HALLOWEEN.png",
                 "rotation": [
