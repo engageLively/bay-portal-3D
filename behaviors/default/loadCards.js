@@ -165,7 +165,7 @@ class LoadActor {
                     "ReplaceWorld"
                 ],
                 reuseTab: true,
-                replaceWorldTargetURL: "https://ultisim.github.io/RicosWorld",
+                replaceWorldTargetURL: "https://lin564.github.io/playground/?q=iumpzdabw0#pw=HuTXLIZY72VpemmSharYQg",
                 "modelType": "img",
                 "name": "HALLOWEEN.png",
                 "rotation": [
