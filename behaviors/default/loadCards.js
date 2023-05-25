@@ -16,7 +16,7 @@ class LoadActor {
                 animationProximateDistance: 50,
                 animationCheckInterval: 20,
                 animationProximateAnimationClip: 12,
-                animationDistantAnimationClip: 9,
+                animationDistantAnimationClip: 4,
                 behaviorModules: ['SpideyJumpOnApproach'],
                 delayAfterJump: 1000,
                 name: '/spiderman-rigged.glb',
