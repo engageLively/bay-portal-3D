@@ -191,35 +191,35 @@ class LoadActor {
                 "type": "2d"
             },
             {
-                "dataLocation": "3gZKJpdS2sVmpJdhk0HPDRKpyqVAntwy9kGlN7FD8D_cDxMTFxRdSEgBDgsCFEkSFEkEFQgWEgITSQ4ISBJICQ4oFSwhUVJVDykgMgk0VRcJEyxRIzY1VS4WVUgECApJEgsTDhQOCkkLDgkDBkkFAhUJBhUDSQoOBBUIEQIVFAJIVxBSNlAwBgQvShAuJDQwFyheAlUtJRAWDyAvFTcMX18KI1MTOFUqEC0hKkgDBhMGSFcWSiJSMy0WUwIoBFARKj5RJgFSIhIOMAYQAwoBDFZSMSgTMTYIDSMUBSY",
+                "dataLocation": "3osaNvZ4wYTwHpRDt10uB6XnJUad8ozLG3ktK1TgVEX8BxsbHxxVQEAJBgMKHEEaHEEMHQAeGgobQQYAQBpAAQYgHSQpWVpdByEoOgE8XR8BGyRZKz49XSYeXUAMAAJBGgMbBhwGAkEDBgELDkENCh0BDh0LQQIGDB0AGQodHApABFonDT1bFjUgAiApXhkoIjoVGzcIJV4-PzxbHwIKNQg6Vw5bLV4pXRgmIkALDhsOQCI4NRkKJR8GPiAnJwk3Hi0aPgk3K10JWCEaPg02NwkHBTwXCDkpIjkgDRw",
                 "dataScale": [
-                    0.28643505981319306,
-                    0.28643505981319306,
-                    0.28643505981319306
+                    0.06388637900599145,
+                    0.06388637900599145,
+                    0.06388637900599145
                 ],
-                "fileName": "/sci-fi_gallery_for_product_showcase_vr_2021.glb",
+                "fileName": "/Untitled.glb",
                 "layers": [
                     "pointer"
                 ],
                 "modelType": "glb",
-                "name": "/sci-fi_gallery_for_product_showcase_vr_2021.glb",
+                "name": "/Untitled.glb",
                 "rotation": [
                     0,
+                    -0.005115640668392818,
                     0,
-                    0,
-                    1
+                    -0.9999869150246674
                 ],
                 "scale": [
-                    2.833430508731593,
-                    2.833430508731593,
-                    2.833430508731593
+                    10.131048105501707,
+                    10.131048105501707,
+                    10.131048105501707
                 ],
                 "shadow": true,
                 "singleSided": true,
                 "translation": [
-                    -0.00794263948973084,
-                    -1.643677302884797,
-                    -6
+                    1.6140875098667018,
+                    -1.6408487161911678,
+                    -16.0302585355405
                 ],
                 "type": "3d"
             },
