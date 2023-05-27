@@ -11,7 +11,12 @@ class ReplaceWorldPawn {
         this.addEventListener("pointerDown", "onPointerDown");
     }
 
+    
     onPointerDown() {
+        this.jumpToTargetWorld();
+    }
+
+    jumpToTargetWorld() {
         document.body.style.background = "black";
         const canvas = document.getElementById("ThreeCanvas");
         canvas.style.transition = "opacity 1s";

@@ -155,14 +155,18 @@ class LoadActor {
                 "type": "2d"
             },
             {
+                jumpCheckInterval: 20,
+                jumpDistance: 1,
+                translationAfterJump: [-49, -0.01, 123.46],
+                targetURL: "https://lin564.github.io/playground/?q=iumpzdabw0#pw=HuTXLIZY72VpemmSharYQg",
                 "cornerRadius": 0.02,
                 "fileName": "HALLOWEEN.png",
                 "fullBright": true,
                 "layers": [
-                    "pointer"
+                     "pointer"
                 ],
                 behaviorModules: [
-                    "ReplaceWorld"
+                    "JumpWorld"
                 ],
                 reuseTab: true,
                 replaceWorldTargetURL: "https://lin564.github.io/playground/?q=iumpzdabw0#pw=HuTXLIZY72VpemmSharYQg",
@@ -223,8 +227,57 @@ class LoadActor {
                 ],
                 "type": "3d"
             },
+            {
+                "animationClipIndex": 0,
+                "animationStartTime": 132809,
+                "dataLocation": "33Bd6InSNRh-9L8KxPSj03a_vTNCY-SPGWZtB6gKa2HgW0dHQ0AJHBxVWl9WQB1GQB1QQVxCRlZHHVpcHEYcXVp8QXh1BQYBW310Zl1gAUNdR3gFd2JhAXpCARxQXF4dRl9HWkBaXh1fWl1XUh1RVkFdUkFXHV5aUEFcRVZBQFYcW0pFRXZiVnB_X0BSQ0dDCwtYeAZwY3RfCnR-C3V9ZF98AgZ1UGtKVEN4ZhxXUkdSHF1Dfn9pBlVSa35DQwFGS1lHd18CY0YKC2tUS1lpW3xif0ZiC1tiHmwAAwc",
+                "dataScale": [
+                    0.00046809848531158255,
+                    0.00046809848531158255,
+                    0.00046809848531158255
+                ],
+                "fileName": "/cartoon_halloween_farm.glb",
+                "layers": ["pointer"],
+                "modelType": "glb",
+                "name": "/cartoon_halloween_farm.glb",
+                "rotation": [0, 0, 0, 1],
+                "scale": [ 37.26279284058949,  37.26279284058949,  37.26279284058949],
+                "shadow": true,
+                "singleSided": true,
+                "translation": [0, -1.13, 118],
+                "type": "3d"
+            }
           
         ]
+        const loadCardSpec = {
+            cornerRadius: 0.02,
+            behaviorModules: [
+                
+            ],
+           
+            "fileName": "/assets/images/Walmart_Logo-scaled.jpg",
+            "fullBright": true,
+            "layers": [
+                "walk"
+            ],
+            "modelType": "img",
+            "name": "Walmart Logo",
+            "rotation": [0, 0, 0],
+            "scale": [
+                2.5583281611772155,
+                2.5583281611772155,
+                2.5583281611772155
+            ],
+            "shadow": true,
+            "singleSided": true,
+            "textureLocation": "3c7YYZ7SeumAdf-9ifGiTssSRECTvVMNVx4Cf2ly3zO0CxcXExBZTEwFCg8GEE0WEE0AEQwSFgYXTQoMTBZMDQosESglVVZRCy0kNg0wURMNFyhVJzIxUSoSUUwADA5NFg8XChAKDk0PCg0HAk0BBhENAhEHTQ4KABEMFQYREAZMUxRWMlQ0AgArThQqIDA0EyxaBlEpIRQSCyQrETMIW1sOJ1cXPFEuFCklLkwHAhcCTAoqVVJRJVoLJwgpVCkFLQ00LTNbMA0xFAsFCREQMgAMG1YXThQwGzQlOQQ",
+            "textureType": "image",
+            "translation": [
+                0.19780983708617939, -0.1498600873195297, -1],
+            "type": "2d"
+        }
+        
+        // const loadCard = this.createCard(loadCardSpec)
         this.loadedCards = cards.map(card => this.createCard(card));
     }
 }
