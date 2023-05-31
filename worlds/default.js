@@ -39,7 +39,7 @@
                     placeholderColor: 0x808080,
                     placeholderOffset: [0, 0, 0],
                     // behaviorModules: ['LoadCards']
-                    behaviorModules: ['SynchronousCardLoader']
+                    // behaviorModules: ['SynchronousCardLoader']
                 }
             },
             {
