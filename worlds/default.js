@@ -53,7 +53,7 @@
                     dataType: "jpg",
                 }
             },
-            {
+            /* {
                 card: {
                     animationClipIndex:0,
                     animationStartTime: 4365797,
@@ -78,61 +78,8 @@
                     translationAfterJump: [0.14, -1.48, -6],
                     type: '3d'
                 }
-            },
-            {
-                card: {
-                    cornerRadius: 0.02,
-                    loadSynchonously: true,
-                    behaviorModules: ["URLLink"],
-                    cardURL: "https://www.target.com/p/marvel-spider-man-legends-series-peter-b-parker-action-figure/-/A-87012329",
-                    fileName: "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
-                    fullBright: true,
-                    layers: ["pointer"],
-                    modelType: "img",
-                    name: "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
-                    rotation: [0, 0, 0],
-                    scale: [2.55, 2.55, 2.55],
-                    shadow: true,
-                    singleSided: true,
-                    textureLocation: "3c7YYZ7SeumAdf-9ifGiTssSRECTvVMNVx4Cf2ly3zO0CxcXExBZTEwFCg8GEE0WEE0AEQwSFgYXTQoMTBZMDQosESglVVZRCy0kNg0wURMNFyhVJzIxUSoSUUwADA5NFg8XChAKDk0PCg0HAk0BBhENAhEHTQ4KABEMFQYREAZMUxRWMlQ0AgArThQqIDA0EyxaBlEpIRQSCyQrETMIW1sOJ1cXPFEuFCklLkwHAhcCTAoqVVJRJVoLJwgpVCkFLQ00LTNbMA0xFAsFCREQMgAMG1YXThQwGzQlOQQ",
-                    textureType: "image",
-                    translation: [0.198, -0.150, -11.829],
-                    type: "2d"
-                }
-            },
-            {
-                "card": {
-                    "cornerRadius": 0.02,
-                    "fileName": "Summer-Poster.png",
-                    "fullBright": true,
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "img",
-                    "name": "Summer-Poster.png",
-                    "rotation": [
-                        null,
-                        null,
-                        null,
-                        null
-                    ],
-                    "scale": [
-                        2.8134830868968894,
-                        2.8134830868968894,
-                        2.8134830868968894
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "textureLocation": "34uXMvNRPx9GuFj7bp5s9eiMLJHT-z3WChRt7Ii2_BXoXEBAREcOGxtSXVhRRxpBRxpXRltFQVFAGl1bG0EbWl17Rn9yAgEGXHpzYVpnBkRaQH8CcGVmBn1FBhtXW1kaQVhAXUddWRpYXVpQVRpWUUZaVUZQGlldV0ZbQlFGR1EbZQNTUmxAW2xETAdWQHAEVX0MAA0BZ3ZQAlNleGd3YQZuX1JbAWwHfU1rDBtQVUBVG3pWeE5_WUd9Akx3BmZTU01SQXtWUHx5XVlkYlVnRXJ_e3Z5AV18cm1MXWE",
-                    "textureType": "image",
-                    "translation": [
-                        -3.0065266451330945,
-                        0,
-                        -8.054964019595625
-                    ],
-                    "type": "2d"
-                }
-            },
+            }, */
+            
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -307,7 +254,7 @@
                     "type": "3d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "dataLocation": "3-3VogCBX12eOQUsKcOprw2ApA8ZIWWdZwk3aJED4pg4Q19fW1gRBARNQkdOWAVeWAVIWURaXk5fBUJEBF4ERUJkWWBtHR4ZQ2VsfkV4GVtFX2Adb3p5GWJaGQRIREYFXkdfQlhCRgVHQkVPSgVJTllFSllPBUZCSFlEXU5ZWE4EehxMTXNfRHNbUxhJX28bSmITHxIeeGlPHUx6Z3hofhlxQE1EHnMYYlJ0EwRPSl9KBB8ZH0B0T0ZZH15HGFFvE3R5WHQGbnppWm9GE09CBmRKbGlidFJYZR9GQWY",
                     "dataScale": [
@@ -341,7 +288,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "dataLocation": "3kg_F6Nm2aBpefLmoGp1teyTJtRVUBHonmFj3L6TFCC0Ax8fGxhRREQNAgcOGEUeGEUIGQQaHg4fRQIERB5EBQIkGSAtXV5ZAyUsPgU4WRsFHyBdLzo5WSIaWUQIBAZFHgcfAhgCBkUHAgUPCkUJDhkFChkPRQYCCBkEHQ4ZGA5EOlwMDTMfBDMbE1gJHy9bCiJTX1JeOCkPXQw6JzgoPlkxAA0EXjNYIhI0U0QPCh8KRBNaHQg5Rgk_JjlSHTESLwUyOzwGBh4TAioiGSYeKSNaMhhYBgApOyMbLyI",
@@ -585,39 +532,6 @@
                         -8.171703558363703
                     ],
                     "type": "3d"
-                }
-            },
-            {
-                "card": {
-                    "cornerRadius": 0.02,
-                    "fileName": "/Summer Sale Announcement Post-1.jpg",
-                    "fullBright": true,
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "img",
-                    "name": "/Summer Sale Announcement Post-1.jpg",
-                    "rotation": [
-                        null,
-                        null,
-                        null,
-                        null
-                    ],
-                    "scale": [
-                        4,
-                        4,
-                        4
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "textureLocation": "3EYccVvAjA57pfaJg_GoXAxzn32wbqh31a4YvKJsy7M0LTExNTZ_amojLCkgNmswNmsmNyo0MCAxaywqajBqKywKNw4Dc3B3LQsCECsWdzUrMQ5zARQXdww0d2omKihrMCkxLDYsKGspLCshJGsnIDcrJDchaygsJjcqMyA3NiBqFHIiIx0xKh01PXYnMQF1JAx9cXxwFgchcyIUCRYGEHcfLiMqcB12DDwafWohJDEkaiszaHcvIn0EEwwTJDISPHAPPQxoCHQpfA4NIwIWMhAxCScRFCgXFg52EAQ",
-                    "textureType": "image",
-                    "translation": [
-                        -7.3032604496111375,
-                        -0.011999999254941773,
-                        -10.076317126168192
-                    ],
-                    "type": "2d"
                 }
             },
             {
@@ -1137,6 +1051,7 @@
                     "cornerRadius": 0.02,
                     "fileName": "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
                     "fullBright": true,
+                    behaviorModules: ["URLLink"],
                     "layers": [
                         "pointer"
                     ],
