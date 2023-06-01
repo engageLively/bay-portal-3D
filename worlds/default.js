@@ -289,41 +289,7 @@
                     "type": "3d"
                 }
             }, */
-            {
-                "card": {
-                    "dataLocation": "3kg_F6Nm2aBpefLmoGp1teyTJtRVUBHonmFj3L6TFCC0Ax8fGxhRREQNAgcOGEUeGEUIGQQaHg4fRQIERB5EBQIkGSAtXV5ZAyUsPgU4WRsFHyBdLzo5WSIaWUQIBAZFHgcfAhgCBkUHAgUPCkUJDhkFChkPRQYCCBkEHQ4ZGA5EOlwMDTMfBDMbE1gJHy9bCiJTX1JeOCkPXQw6JzgoPlkxAA0EXjNYIhI0U0QPCh8KRBNaHQg5Rgk_JjlSHTESLwUyOzwGBh4TAioiGSYeKSNaMhhYBgApOyMbLyI",
-                    "dataScale": [
-                        1.012301534197556,
-                        1.012301534197556,
-                        1.012301534197556
-                    ],
-                    "fileName": "/store_shelves.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/store_shelves.glb",
-                    "rotation": [
-                        0,
-                        -0.25444428086441667,
-                        0,
-                        0.9670874355172803
-                    ],
-                    "scale": [
-                        1.7491693924603147,
-                        1.7491693924603147,
-                        1.7491693924603147
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        14.324429810856975,
-                        -1.2276278843995652,
-                        -9.986557912571218
-                    ],
-                    "type": "3d"
-                }
-            },
+           
             {
                 "card": {
                     "dataLocation": "3LKtXuLmD1-xrJZ-DIzSs0UO8U8nvWCUsZcne4C24RdIJDg4PD92Y2MqJSApP2I5P2IvPiM9OSk4YiUjYzljIiUDPgcKenl-JAILGSIffjwiOAd6CB0efgU9fmMvIyFiOSA4JT8lIWIgJSIoLWIuKT4iLT4oYiElLz4jOik-PyljHXsrKhQ4IxQ8NH8uOAh8LQV0eHV5Hw4oeisdAB8PGX4WJyojeRR_BTUTdGMoLTgtY3Q_JAkvIS0VfQIdJz91Lz0DJ3oYHwUaFiMrfyk4fyUaKzs5HCYkOTQCOHg",
@@ -464,41 +430,7 @@
                     "type": "3d"
                 }
             },
-            {
-                "card": {
-                    "dataLocation": "3CR8mIiQVCuxO_WCtyc-rAMnjHGJSpLlNKAV8gnp5zp4Kzc3MzB5bGwlKi8mMG02MG0gMSwyNiY3bSosbDZsLSoMMQgFdXZxKw0EFi0QcTMtNwh1BxIRcQoycWwgLC5tNi83KjAqLm0vKi0nIm0hJjEtIjEnbS4qIDEsNSYxMCZsEnQkJRs3LBszO3AhNwdzIgp7d3p2EAEndSQSDxAAFnEZKCUsdhtwCjoce2wnIjcibHB0dQ4JBQg1ERBwBRt7BiYTBSE5KXorCwArLyIRARAbORQaJnB1DCIiCiQ",
-                    "dataScale": [
-                        0.12719989552479655,
-                        0.12719989552479655,
-                        0.12719989552479655
-                    ],
-                    "fileName": "/floatie.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/floatie.glb",
-                    "rotation": [
-                        0,
-                        0.6785963526509435,
-                        0,
-                        0.7345113955336815
-                    ],
-                    "scale": [
-                        0.424558492835478,
-                        0.424558492835478,
-                        0.424558492835478
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -8.613582722919007,
-                        -0.8064165751988089,
-                        -8.77100196812706
-                    ],
-                    "type": "3d"
-                }
-            },
+            
             {
                 "card": {
                     "dataLocation": "3Jqz_m218YKRjK_28wiqU7VjZ5rXKrosq3bderkVzexMIj4-OjlwZWUsIyYvOWQ_OWQpOCU7Py8-ZCMlZT9lJCMFOAEMfH94IgQNHyQZeDokPgF8DhsYeAM7eGUpJSdkPyY-IzkjJ2QmIyQuK2QoLzgkKzguZCcjKTglPC84OS9lG30tLBI-JRI6MnkoPg56KwNyfnN_GQgufC0bBhkJH3gQISwlfxJ5AzMVcmUuKz4rZR4pGD4nOHwNOA0HPw0LDzp6AXsuECU8HgQmOxkbFS8TIBw_MzsCFT8eLxM",
@@ -907,38 +839,7 @@
                     "type": "3d"
                 }
             },
-            {
-                "card": {
-                    "animationClipIndex": 0,
-                    "animationStartTime": 25164206,
-                    "dataLocation": "3sZoLtGQhmzBp9ZcfeaAEKQEprgVl5nGmnn22abx5c2IGwcHAwBJXFwVGh8WAF0GAF0QARwCBhYHXRocXAZcHRo8ATg1RUZBGz00Jh0gQQMdBzhFNyIhQToCQVwQHB5dBh8HGgAaHl0fGh0XEl0RFgEdEgEXXR4aEAEcBRYBABZcIkQUFSsHHCsDC0ARBzdDEjpLR0pGIDEXRRQiPyAwJkEpGBUcRitAOgosS1wXEgcSXEUpEUQsJjgmKiIRBCcpPj9AQT09AB8bMglKIDwWChAYAREiPx48OSUYFiY",
-                    "dataScale": [
-                        2.8063229172069737,
-                        2.8063229172069737,
-                        2.8063229172069737
-                    ],
-                    "fileName": "/bat.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/bat.glb",
-                    "rotation": [
-                        null,
-                        null,
-                        null,
-                        null
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -0.81915775255924,
-                        -0.011999999254941773,
-                        -19.452100008185365
-                    ],
-                    "type": "3d"
-                }
-            },
+           
             {
                 "card": {
                     "animationClipIndex": 0,
@@ -1055,6 +956,7 @@
                     "layers": [
                         "pointer"
                     ],
+                    cardURL: "https://www.target.com/p/marvel-spider-man-legends-series-peter-b-parker-action-figure/-/A-87012329",
                     "modelType": "img",
                     "name": "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
                     "rotation": [
