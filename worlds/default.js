@@ -532,74 +532,7 @@
                 }
             },
            
-            /* {
-                "card": {
-                    "dataLocation": "3ul2ZNTYZBCjAFgMfk5PhZXvO6mRMgaKCNFs8HkopVjsHQEBBQZPWloTHBkQBlsABlsWBxoEABABWxwaWgBaGxw6Bz4zQ0BHHTsyIBsmRwUbAT5DMSQnRzwER1oWGhhbABkBHAYcGFsZHBsRFFsXEAcbFAcRWxgcFgcaAxAHBhBaJEISEy0BGi0FDUYXATFFFDxNQUxAJjcRQxIkOSY2IEcvHhMaQC1GPAwqTVoRFAEUWiM7GkIxJEBADRBHWEQDEyEjRh8YJRA-BhoPDTkYTTIQRgQPEVgwLzsbLxo",
-                    "dataScale": [
-                        39.0141534620259,
-                        39.0141534620259,
-                        39.0141534620259
-                    ],
-                    "fileName": "/broomstick_v2.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/broomstick_v2.glb",
-                    "rotation": [
-                        0.3954664252799368,
-                        0.1904635861617061,
-                        0.8898846843480994,
-                        -0.12423838933845475
-                    ],
-                    "scale": [
-                        0.8100002900796356,
-                        0.8100002900796356,
-                        0.8100002900796356
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -3.065093868302753,
-                        1.7879959885504169,
-                        -24.93497782026719
-                    ],
-                    "type": "3d"
-                }
-            }, */
-            {
-                "card": {
-                    "cornerRadius": 0.02,
-                    "fileName": "/AdobeStock_121546512.jpeg",
-                    "fullBright": true,
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "img",
-                    "name": "/AdobeStock_121546512.jpeg",
-                    "rotation": [
-                        0.005876770972765181,
-                        -0.864677808037466,
-                        -0.003413745282503593,
-                        0.5022808957083705
-                    ],
-                    "scale": [
-                        5.916688707178135,
-                        5.916688707178135,
-                        5.916688707178135
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "textureLocation": "3wpvZcR2GbW0JFUKoRWKhKcoFJyMGxl08m_xUicjcLvkHwMDBwRNWFgRHhsSBFkCBFkUBRgGAhIDWR4YWAJYGR44BTwxQUJFHzkwIhkkRQcZAzxBMyYlRT4GRVgUGBpZAhsDHgQeGlkbHhkTFlkVEgUZFgUTWRoeFAUYARIFBBJYJkAQES8DGC8HD0QVAzNHFj5PQ05CJDUTQRAmOyQ0IkUtHBEYQi9EPg4oT1gTFgMWWBwOPwIzBAYRWh4WRC4lI0IQJA84GgIeGSg_Az1AQCYuIjwtAycaET1DTyY",
-                    "textureType": "image",
-                    "translation": [
-                        5.747710049591871,
-                        0.720124059889908,
-                        -17.244810621617766
-                    ],
-                    "type": "2d"
-                }
-            },
+            
             
            
             {
