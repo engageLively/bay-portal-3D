@@ -290,7 +290,7 @@
                 }
             }, */
            
-            {
+            /* {
                 "card": {
                     "dataLocation": "3LKtXuLmD1-xrJZ-DIzSs0UO8U8nvWCUsZcne4C24RdIJDg4PD92Y2MqJSApP2I5P2IvPiM9OSk4YiUjYzljIiUDPgcKenl-JAILGSIffjwiOAd6CB0efgU9fmMvIyFiOSA4JT8lIWIgJSIoLWIuKT4iLT4oYiElLz4jOik-PyljHXsrKhQ4IxQ8NH8uOAh8LQV0eHV5Hw4oeisdAB8PGX4WJyojeRR_BTUTdGMoLTgtY3Q_JAkvIS0VfQIdJz91Lz0DJ3oYHwUaFiMrfyk4fyUaKzs5HCYkOTQCOHg",
                     "dataScale": [
@@ -465,7 +465,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -499,7 +499,7 @@
                     "type": "2d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "dataLocation": "3JJcGl3mCiUuCugwZ4TLpK2K4n5iwK7FYF0mjsa8K0CYIj4-OjlwZWUsIyYvOWQ_OWQpOCU7Py8-ZCMlZT9lJCMFOAEMfH94IgQNHyQZeDokPgF8DhsYeAM7eGUpJSdkPyY-IzkjJ2QmIyQuK2QoLzgkKzguZCcjKTglPC84OS9lG30tLBI-JRI6MnkoPg56KwNyfnN_GQgufC0bBhkJH3gQISwlfxJ5AzMVcmUuKz4rZSJ9ASAYLCg9JD8ABy4CMBJ7BTwZGj0QZxscLH1nJAwLGAMhejAFAQ0cDH4",
                     "dataScale": [
@@ -533,7 +533,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -567,7 +567,7 @@
                     "type": "2d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "dataLocation": "30bqQ-91dTUv57GjJG5OSmGeDEf9RJfyq9IetkldjyaIWEREQEMKHx9WWVxVQx5FQx5TQl9BRVVEHllfH0UfXll_Qnt2BgUCWH53ZV5jAkBeRHsGdGFiAnlBAh9TX10eRVxEWUNZXR5cWV5UUR5SVUJeUUJUHl1ZU0JfRlVCQ1UfYQdXVmhEX2hASANSRHQAUXkIBAkFY3JUBldhfGNzZQJqW1ZfBWgDeUlvCB9UUURRH156Q2JkBUpDVG9jBFFdZHp-dHpVAnVHAmZGBn4DY2EDXGBadR0CZFVGeQQ",
                     "dataScale": [
@@ -601,7 +601,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -701,7 +701,7 @@
                     "type": "2d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "dataLocation": "3ul2ZNTYZBCjAFgMfk5PhZXvO6mRMgaKCNFs8HkopVjsHQEBBQZPWloTHBkQBlsABlsWBxoEABABWxwaWgBaGxw6Bz4zQ0BHHTsyIBsmRwUbAT5DMSQnRzwER1oWGhhbABkBHAYcGFsZHBsRFFsXEAcbFAcRWxgcFgcaAxAHBhBaJEISEy0BGi0FDUYXATFFFDxNQUxAJjcRQxIkOSY2IEcvHhMaQC1GPAwqTVoRFAEUWiM7GkIxJEBADRBHWEQDEyEjRh8YJRA-BhoPDTkYTTIQRgQPEVgwLzsbLxo",
                     "dataScale": [
@@ -735,7 +735,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -769,7 +769,7 @@
                     "type": "2d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "dataLocation": "30zg_8Nqpe_IyqcLcCuG5aSI91a4HKNOker2jZt02ZeMWEREQEMKHx9WWVxVQx5FQx5TQl9BRVVEHllfH0UfXll_Qnt2BgUCWH53ZV5jAkBeRHsGdGFiAnlBAh9TX10eRVxEWUNZXR5cWV5UUR5SVUJeUUJUHl1ZU0JfRlVCQ1UfYQdXVmhEX2hASANSRHQAUXkIBAkFY3JUBldhfGNzZQJqW1ZfBWgDeUlvCB9UUURRH2laRkR6X1xaB15bRFVaB2oEVHcJcQVCf0J7eVd2SmNIc3pVc0BcYAICcwA",
                     "dataScale": [
@@ -913,7 +913,7 @@
                     ],
                     "type": "3d"
                 }
-            },
+            }, */
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -1019,7 +1019,7 @@
                     "type": "3d"
                 }
             },
-            {
+           /* {
                 "card": {
                     "dataLocation": "3sQLDIg13W3TagTYSTi8r01R9kYMB5R9CzppqoGfNxEcGwcHAwBJXFwVGh8WAF0GAF0QARwCBhYHXRocXAZcHRo8ATg1RUZBGz00Jh0gQQMdBzhFNyIhQToCQVwQHB5dBh8HGgAaHl0fGh0XEl0RFgEdEgEXXR4aEAEcBRYBABZcIkQUFSsHHCsDC0ARBzdDEjpLR0pGIDEXRRQiPyAwJkEpGBUcRitAOgosS1wXEgcSXAk-KyUSGRsqPgdLPSonFkAjMEMEBgQ0QBdDHD4EORkgBQUJRCAJQTIgQD4",
                     "dataScale": [
@@ -1088,7 +1088,7 @@
                     ],
                     "type": "3d"
                 }
-            }
+            } */
         ];
     }
     
