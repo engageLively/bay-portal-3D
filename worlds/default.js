@@ -675,7 +675,7 @@
                     ],
                     "type": "3d"
                 }
-            }, */
+            },
             {
                 "card": {
                     "cornerRadius": 0.02,
