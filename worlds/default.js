@@ -53,32 +53,7 @@
                     dataType: "jpg",
                 }
             },
-            /* {
-                card: {
-                    animationClipIndex:0,
-                    animationStartTime: 4365797,
-                    animationProximateDistance: 50,
-                    animationCheckInterval: 20,
-                    animationProximateAnimationClip: 12,
-                    animationDistantAnimationClip: 4,
-                    behaviorModules: ['SpideyJumpOnApproach'],
-                    delayAfterJump: 1000,
-                    name: '/spiderman-rigged.glb',
-                    fileName: '/spiderman-rigged.glb',
-                    dataLocation: "3nkvssiWbp4Kp3XVeZZoG39fIaYeDr7K0gMYQqBjPja4BhoaHh1UQUEIBwILHUAbHUANHAEfGwsaQAcBQRtBAAchHCUoWFtcBiApOwA9XB4AGiVYKj88XCcfXEENAQNAGwIaBx0HA0ACBwAKD0AMCxwADxwKQAMHDRwBGAscHQtBBVsmDDxaFzQhAyEoXxgpIzsUGjYJJF8_Pj1aHgMLNAk7Vg9aLF8oXBknI0EKDxoPQSocXgsgACUkFiIdWzEaNiEWWwAkMQ1YCiUUASkGNhgiKgQ3L1kKLwhdFB0",
-                    dataScale: [226, 226, 226],
-                    layers: ['pointer'],
-                    modelType: 'glb',
-                    rotation:  [-0.007537241996760254, 0.23213362494298506, 0.04412154985861157, 0.9716534665157047],
-                    scale: [0.5, 0.5, 0.5],
-                    shadow: true,
-                    singleSided: true,
-                    translation:[0.14, -1.48, -11],
-                    translationBeforeJump: [0.14, -1.48, -11],
-                    translationAfterJump: [0.14, -1.48, -6],
-                    type: '3d'
-                }
-            }, */
+           
             
             {
                 "card": {
@@ -183,7 +158,7 @@
             },
             {
                 card:{
-                    jumpCheckInterval: 20,
+                    jumpCheckInterval: 50,
                     jumpDistance: 1,
                     translationAfterJump: [-49, -0.01, 123.46],
                     targetURL: "https://engagelively.github.io/halloween-farm/?q=9y8pczo6w0#pw=wj16F7vGj3OK5u6LuY8eyA",
