@@ -22,7 +22,7 @@
         Constants.ExcludedSystemBehaviorModules = ["avatarEvents.js"];
         Constants.UserBehaviorDirectory = "behaviors/default";
         Constants.UserBehaviorModules = [
-            "avatarEvents.js", "csmLights.js", 'halloweenLights.js', 'jumpWorld.js', 'spideyJumpOnApproach.js', 'synchronousLoad.js', 'urlLink.js'
+            "avatarEvents.js", "csmLights.js", 'halloweenLights.js', 'jumpWorld.js', 'urlLink.js'
         ];
     
         Constants.DefaultCards = [
@@ -184,7 +184,8 @@
                     ],
                     shadow: true,
                     singleSided: true,
-                    textureLocation: "3YRRea1Kjzl1bhpnaZg5VRtrrXd2rs0LWS7HIKP4qO9EMS0tKSpjdnY_MDU8KncsKnc6KzYoLDwtdzA2dix2NzAWKxIfb2xrMRceDDcKayk3LRJvHQgLaxAoa3Y6NjR3LDUtMCowNHc1MDc9OHc7PCs3OCs9dzQwOis2LzwrKjx2CG4-PwEtNgEpIWo7LR1pOBBhbWBsChs9bz4IFQoaDGsDMj82bAFqECAGYXY9OC04dh50EQ8-DwAObAYJLBA7Gho4NjUzbBwQGBcbGioPbTMOdBhtCj49ND41FG0",
+                    // textureLocation: "3YRRea1Kjzl1bhpnaZg5VRtrrXd2rs0LWS7HIKP4qO9EMS0tKSpjdnY_MDU8KncsKnc6KzYoLDwtdzA2dix2NzAWKxIfb2xrMRceDDcKayk3LRJvHQgLaxAoa3Y6NjR3LDUtMCowNHc1MDc9OHc7PCs3OCs9dzQwOis2LzwrKjx2CG4-PwEtNgEpIWo7LR1pOBBhbWBsChs9bz4IFQoaDGsDMj82bAFqECAGYXY9OC04dh50EQ8-DwAObAYJLBA7Gho4NjUzbBwQGBcbGioPbTMOdBhtCj49ND41FG0",
+                    textureLocation: "/assets/images/Halloween_Poster_with_arch.png",
                     textureType: "image",
                     "translation": [
                         1.4328390765797603,
@@ -375,7 +376,8 @@
            {
                 "card": {
                     "cornerRadius": 0.02,
-                    "fileName": "/Summer Sale Announcement Post-1.jpg",
+                    // "fileName": "/Summer Sale Announcement Post-1.jpg",
+                    fileName: "./assets/images/Summer_Sale_Poster.jpg",
                     "fullBright": true,
                     "layers": [
                         "pointer"
@@ -395,7 +397,8 @@
                     ],
                     "shadow": true,
                     "singleSided": true,
-                    "textureLocation": "3NKVt12_8a_h-zkMHssR7SY4FKVLdfk7RWcZUA4edKuwJjo6Pj10YWEoJyIrPWA7PWAtPCE_Oys6YCchYTthICcBPAUIeHt8JgAJGyAdfD4gOgV4Ch8cfAc_fGEtISNgOyI6Jz0nI2AiJyAqL2AsKzwgLzwqYCMnLTwhOCs8PSthH3kpKBY6IRY-Nn0sOgp-Lwd2end7HQwqeCkfAh0NG3wUJSghexZ9BzcRdmEqLzovYX5-JBchFiJ4KhspDAw7HXkrfhYIOR4NPiN2DRoJfikfFxE7DCM-eX8cB3Y",
+                    textureLocation: "./assets/images/Summer_Sale_Poster.jpg",
+                    // "textureLocation": "3NKVt12_8a_h-zkMHssR7SY4FKVLdfk7RWcZUA4edKuwJjo6Pj10YWEoJyIrPWA7PWAtPCE_Oys6YCchYTthICcBPAUIeHt8JgAJGyAdfD4gOgV4Ch8cfAc_fGEtISNgOyI6Jz0nI2AiJyAqL2AsKzwgLzwqYCMnLTwhOCs8PSthH3kpKBY6IRY-Nn0sOgp-Lwd2end7HQwqeCkfAh0NG3wUJSghexZ9BzcRdmEqLzovYX5-JBchFiJ4KhspDAw7HXkrfhYIOR4NPiN2DRoJfikfFxE7DCM-eX8cB3Y",
                     "textureType": "image",
                     "translation": [
                         -8.921957571427829,
@@ -583,7 +586,8 @@
             {
                 "card": {
                     "cornerRadius": 0.02,
-                    "fileName": "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
+                    // "fileName": "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
+                    textureLocation: "./assets/images/Spiderman_poster_low_poly.jpg",
                     "fullBright": true,
                     behaviorModules: ["URLLink"],
                     "layers": [
@@ -605,7 +609,8 @@
                     ],
                     "shadow": true,
                     "singleSided": true,
-                    "textureLocation": "3K6ZG4PZ_7g1rrTPdSR31goHswJ08EvAMgC1K7w2WII8Iz8_OzhxZGQtIicuOGU-OGUoOSQ6Pi4_ZSIkZD5kJSIEOQANfX55IwUMHiUYeTslPwB9DxoZeQI6eWQoJCZlPic_IjgiJmUnIiUvKmUpLjklKjkvZSYiKDkkPS45OC5kGnwsLRM_JBM7M3gpPw97KgJzf3J-GAkvfSwaBxgIHnkRIC0kfhN4AjIUc2QvKj8qZAYgCgI9LSEoBCZ7GX8PGxQDLzp4fDE5BiIMMXw5KDM5PQUHfB0iOg8pJR4",
+                    textureLocation: "./assets/images/Spiderman_poster_low_poly.jpg",
+                    // "textureLocation": "3K6ZG4PZ_7g1rrTPdSR31goHswJ08EvAMgC1K7w2WII8Iz8_OzhxZGQtIicuOGU-OGUoOSQ6Pi4_ZSIkZD5kJSIEOQANfX55IwUMHiUYeTslPwB9DxoZeQI6eWQoJCZlPic_IjgiJmUnIiUvKmUpLjklKjkvZSYiKDkkPS45OC5kGnwsLRM_JBM7M3gpPw97KgJzf3J-GAkvfSwaBxgIHnkRIC0kfhN4AjIUc2QvKj8qZAYgCgI9LSEoBCZ7GX8PGxQDLzp4fDE5BiIMMXw5KDM5PQUHfB0iOg8pJR4",
                     "textureType": "image",
                     "translation": [
                         6.093040091560714,
