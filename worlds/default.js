@@ -641,43 +641,6 @@
             },
             {
                 "card": {
-                    "animationClipIndex": 0,
-                    "animationStartTime": 25687408,
-                    "dataLocation": "34j5Nvavoow61SCiOuEtf0IXVvo3UmsdlymDdzU8h9vcXEBAREcOGxtSXVhRRxpBRxpXRltFQVFAGl1bG0EbWl17Rn9yAgEGXHpzYVpnBkRaQH8CcGVmBn1FBhtXW1kaQVhAXUddWRpYXVpQVRpWUUZaVUZQGlldV0ZbQlFGR1EbZQNTUmxAW2xETAdWQHAEVX0MAA0BZ3ZQAlNleGd3YQZuX1JbAWwHfU1rDBtQVUBVG3BCDFYARUx4Z0V2XVlhTFJaBXdFfkFZfUxfewNdRHdORlFac3lbbUduUnU",
-                    "dataScale": [
-                        1.3933151970856748,
-                        1.3933151970856748,
-                        1.3933151970856748
-                    ],
-                    "fileName": "/monster_eye_bat.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/monster_eye_bat.glb",
-                    "rotation": [
-                        0,
-                        0.8580172479225154,
-                        0,
-                        -0.5136208740573858
-                    ],
-                    "scale": [
-                        0.5037676058794165,
-                        0.5037676058794165,
-                        0.5037676058794165
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        4.624797119476741,
-                        -0.011999999254941773,
-                        -16.095666045221492
-                    ],
-                    "type": "3d"
-                }
-            },
-            {
-                "card": {
                     "cornerRadius": 0.02,
                     "fileName": "/McFarlane-Toy-Grey.gif",
                     "fullBright": true,
