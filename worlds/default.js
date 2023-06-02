@@ -1,4 +1,4 @@
-    // Copyright 2022 by Croquet Corporation, Inc. All Rights Reserved.
+    // Copyright 2022 by Croquet Corporation, Inc. AlFfp0l Rights Reserved.
     // https://croquet.io
     // info@croquet.io
     
@@ -498,41 +498,7 @@
                     "type": "2d"
                 }
             },
-            /* {
-                "card": {
-                    "dataLocation": "30bqQ-91dTUv57GjJG5OSmGeDEf9RJfyq9IetkldjyaIWEREQEMKHx9WWVxVQx5FQx5TQl9BRVVEHllfH0UfXll_Qnt2BgUCWH53ZV5jAkBeRHsGdGFiAnlBAh9TX10eRVxEWUNZXR5cWV5UUR5SVUJeUUJUHl1ZU0JfRlVCQ1UfYQdXVmhEX2hASANSRHQAUXkIBAkFY3JUBldhfGNzZQJqW1ZfBWgDeUlvCB9UUURRH156Q2JkBUpDVG9jBFFdZHp-dHpVAnVHAmZGBn4DY2EDXGBadR0CZFVGeQQ",
-                    "dataScale": [
-                        0.1714095948609297,
-                        0.1714095948609297,
-                        0.1714095948609297
-                    ],
-                    "fileName": "/cauldron.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/cauldron.glb",
-                    "rotation": [
-                        0,
-                        -0.2308411565208257,
-                        0,
-                        0.9729914493232341
-                    ],
-                    "scale": [
-                        0.34969980767612324,
-                        0.34969980767612324,
-                        0.34969980767612324
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -2.067041894284494,
-                        -1.288597787471652,
-                        -24.198009879057956
-                    ],
-                    "type": "3d"
-                }
-            }, */
+            
            
             {
                 "card": {
@@ -560,46 +526,12 @@
                     "textureLocation": "3BHsTZyMhuHQQ6Fdvuonrea0aQkRNDsIQr1RMAoHJnCAKjY2MjF4bW0kKy4nMWw3MWwhMC0zNyc2bCstbTdtLCsNMAkEdHdwKgwFFywRcDIsNgl0BhMQcAszcG0hLS9sNy42KzErL2wuKywmI2wgJzAsIzAmbC8rITAtNCcwMSdtE3UlJBo2LRoyOnEgNgZyIwt6dnt3EQAmdCUTDhEBF3AYKSQtdxpxCzsdem0mIzYjbSQHMSETCgUxcQA7dyF6BxAIDSgdLAYHLiF7Ey8sFBg2dSA0KAYIdjA2Gi0",
                     "textureType": "image",
                     "translation": [
-                        -3.377046315347245,
-                        0.42018966608970376,
-                        -18.355168659270483
+                         -2.588281428422073, 0.42018966608970376, -18.01981272488489
                     ],
                     "type": "2d"
                 }
             },
-            /* {
-                "card": {
-                    "cornerRadius": 0.02,
-                    "fileName": "/AdobeStock_174946357.jpeg",
-                    "fullBright": true,
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "img",
-                    "name": "/AdobeStock_174946357.jpeg",
-                    "rotation": [
-                        0.004966540773744437,
-                        -0.46451863469843707,
-                        -0.010421237546251938,
-                        -0.8854880966442447
-                    ],
-                    "scale": [
-                        3.9767081968800913,
-                        3.9767081968800913,
-                        3.9767081968800913
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "textureLocation": "3ckukdGE1k2W7a7NgTE8BAYR9NT1useeYcM6PjJfpGgICxcXExBZTEwFCg8GEE0WEE0AEQwSFgYXTQoMTBZMDQosESglVVZRCy0kNg0wURMNFyhVJzIxUSoSUUwADA5NFg8XChAKDk0PCg0HAk0BBhENAhEHTQ4KABEMFQYREAZMMlQEBTsXDDsTG1ABFydTAipbV1pWMCEHVQQyLzAgNlE5CAUMVjtQKho8W0wHAhcCTC4RCQwvIDUBGlAZLFFXFA0KEVs8IDAhECoyGSkRACdXAQEVWzEXUw8SJzI",
-                    "textureType": "image",
-                    "translation": [
-                        -4.292774834892541,
-                        0.2856678078088565,
-                        -23.55607516126703
-                    ],
-                    "type": "2d"
-                }
-            }, */
+           
             /* {
                 "card": {
                     "dataLocation": "3ul2ZNTYZBCjAFgMfk5PhZXvO6mRMgaKCNFs8HkopVjsHQEBBQZPWloTHBkQBlsABlsWBxoEABABWxwaWgBaGxw6Bz4zQ0BHHTsyIBsmRwUbAT5DMSQnRzwER1oWGhhbABkBHAYcGFsZHBsRFFsXEAcbFAcRWxgcFgcaAxAHBhBaJEISEy0BGi0FDUYXATFFFDxNQUxAJjcRQxIkOSY2IEcvHhMaQC1GPAwqTVoRFAEUWiM7GkIxJEBADRBHWEQDEyEjRh8YJRA-BhoPDTkYTTIQRgQPEVgwLzsbLxo",
@@ -668,42 +600,7 @@
                     "type": "2d"
                 }
             },
-            /* 
-            {
-                "card": {
-                    "dataLocation": "3rXcfvIQS_pQ9jhuzelnLJBm5ihYh3QJVd8-wc6g-nDkGgYGAgFIXV0UGx4XAVwHAVwRAB0DBxcGXBsdXQddHBs9ADk0REdAGjw1JxwhQAIcBjlENiMgQDsDQF0RHR9cBx4GGwEbH1weGxwWE1wQFwAcEwAWXB8bEQAdBBcAARddI0UVFCoGHSoCCkEQBjZCEztKRktHITAWRBUjPiExJ0AoGRQdRypBOwstSl0WEwYTXRRCSxhFQhkiSiceQghGIioXQREbBRBGAi1HRjcKEQQ4AStDGgsLCEsqQzs",
-                    "dataScale": [
-                        10.55904887336377,
-                        10.55904887336377,
-                        10.55904887336377
-                    ],
-                    "fileName": "/harley_quinn.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/harley_quinn.glb",
-                    "rotation": [
-                        0,
-                        0.05291464176969397,
-                        0,
-                        0.9985990389973269
-                    ],
-                    "scale": [
-                        0.6798398837151944,
-                        0.6798398837151944,
-                        0.6798398837151944
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        4.164539649215347,
-                        0.31501771600931283,
-                        -22.906106814020806
-                    ],
-                    "type": "3d"
-                }
-            },
+            
            
             {
                 "card": {
@@ -884,76 +781,7 @@
                     "type": "3d"
                 }
             },
-           /* {
-                "card": {
-                    "dataLocation": "3sQLDIg13W3TagTYSTi8r01R9kYMB5R9CzppqoGfNxEcGwcHAwBJXFwVGh8WAF0GAF0QARwCBhYHXRocXAZcHRo8ATg1RUZBGz00Jh0gQQMdBzhFNyIhQToCQVwQHB5dBh8HGgAaHl0fGh0XEl0RFgEdEgEXXR4aEAEcBRYBABZcIkQUFSsHHCsDC0ARBzdDEjpLR0pGIDEXRRQiPyAwJkEpGBUcRitAOgosS1wXEgcSXAk-KyUSGRsqPgdLPSonFkAjMEMEBgQ0QBdDHD4EORkgBQUJRCAJQTIgQD4",
-                    "dataScale": [
-                        0.03568787449659961,
-                        0.03568787449659961,
-                        0.03568787449659961
-                    ],
-                    "fileName": "/spawn.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/spawn.glb",
-                    "rotation": [
-                        0,
-                        0.1940033932467275,
-                        0,
-                        0.981000858006126
-                    ],
-                    "scale": [
-                        0.6383364188451939,
-                        0.6383364188451939,
-                        0.6383364188451939
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        10.231383228905006,
-                        -1.1305402045367556,
-                        -11.60224896407813
-                    ],
-                    "type": "3d"
-                }
-            },
-            {
-                "card": {
-                    "dataLocation": "3dP5sS83ViCNxbZY-NG92aO-VGXgmR1EdojdoRBkgALgDBAQFBdeS0sCDQgBF0oRF0oHFgsVEQEQSg0LSxFLCg0rFi8iUlFWDCojMQo3VhQKEC9SIDU2Vi0VVksHCwlKEQgQDRcNCUoIDQoABUoGARYKBRYASgkNBxYLEgEWFwFLNVMDAjwQCzwUHFcGECBUBS1cUF1RNyYAUgM1KDcnMVY-DwILUTxXLR07XEsABRAFSyYyLV1SDSoMPgkcCyYUPRIRXBACCBwuPSI-NCEVHhwKUShRAwINLw0CUg8",
-                    "dataScale": [
-                        0.27246656850094914,
-                        0.27246656850094914,
-                        0.27246656850094914
-                    ],
-                    "fileName": "/spawn (1).glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/spawn (1).glb",
-                    "rotation": [
-                        0,
-                        -0.7817510077365984,
-                        0,
-                        0.6235907006224619
-                    ],
-                    "scale": [
-                        0.71751817958703,
-                        0.71751817958703,
-                        0.71751817958703
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        10.471181948203657,
-                        -1.1419337397316354,
-                        -5.614709853314563
-                    ],
-                    "type": "3d"
-                }
-            } */
+           
         ];
     }
     
