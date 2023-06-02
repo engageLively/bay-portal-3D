@@ -38,7 +38,7 @@ class JumpWorldActor {
         const avatars = this._avatars();
         // this._showPositions();
         const jumpAvatars = avatars.filter(avatar => this._distanceSquare(avatar) <= this._cardData.jumpDistance);
-        const avatarsToJump = jumpAvatars.filter(avatar => this.jumpedAvatars.indexof(avatar) < 0);
+        const avatarsToJump = jumpAvatars.filter(avatar => this.jumpedAvatars.indexOf(avatar) < 0);
         
         if (jumpAvatars.length > 0) {
             
