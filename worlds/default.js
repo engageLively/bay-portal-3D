@@ -290,7 +290,7 @@
                 }
             }, */
            
-            /* {
+            {
                 "card": {
                     "dataLocation": "3LKtXuLmD1-xrJZ-DIzSs0UO8U8nvWCUsZcne4C24RdIJDg4PD92Y2MqJSApP2I5P2IvPiM9OSk4YiUjYzljIiUDPgcKenl-JAILGSIffjwiOAd6CB0efgU9fmMvIyFiOSA4JT8lIWIgJSIoLWIuKT4iLT4oYiElLz4jOik-PyljHXsrKhQ4IxQ8NH8uOAh8LQV0eHV5Hw4oeisdAB8PGX4WJyojeRR_BTUTdGMoLTgtY3Q_JAkvIS0VfQIdJz91Lz0DJ3oYHwUaFiMrfyk4fyUaKzs5HCYkOTQCOHg",
                     "dataScale": [
@@ -321,41 +321,6 @@
                         -4.415557468829602,
                         -1.2273771488701564,
                         -6.326939772837574
-                    ],
-                    "type": "3d"
-                }
-            },
-            {
-                "card": {
-                    "dataLocation": "3TH5G3nb54FITEp0OkEhUas04inkf0MB9wI-dou9pa24PCAgJCdue3syPTgxJ3ohJ3o3JjslITEgej07eyF7Oj0bJh8SYmFmPBoTAToHZiQ6IB9iEAUGZh0lZns3Ozl6ITggPSc9OXo4PTowNXo2MSY6NSYwejk9NyY7IjEmJzF7BWMzMgwgOwwkLGc2IBBkNR1sYG1hBxYwYjMFGAcXAWYOPzI7YQxnHS0LbHswNSA1ez4ebTszNmMgORwTGzMNZxwOMRsBGxcbYxIGC2ATZRIzJxsaLB4LInkYGD8",
-                    "dataScale": [
-                        1.553902704558893,
-                        1.553902704558893,
-                        1.553902704558893
-                    ],
-                    "fileName": "/beach_chair.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/beach_chair.glb",
-                    "rotation": [
-                        0,
-                        0.9499750610367039,
-                        0,
-                        -0.3123257648806947
-                    ],
-                    "scale": [
-                        0.5752912573725966,
-                        0.5752912573725966,
-                        0.5752912573725966
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -2.1241283993591082,
-                        -1.0825545000148356,
-                        -5.069569895032594
                     ],
                     "type": "3d"
                 }
@@ -395,41 +360,7 @@
                     "type": "3d"
                 }
             },
-            {
-                "card": {
-                    "dataLocation": "3NgJ1YkK782ftsZHesVbJezNbdBzKOvBV32RMCOlNWccJjo6Pj10YWEoJyIrPWA7PWAtPCE_Oys6YCchYTthICcBPAUIeHt8JgAJGyAdfD4gOgV4Ch8cfAc_fGEtISNgOyI6Jz0nI2AiJyAqL2AsKzwgLzwqYCMnLTwhOCs8PSthH3kpKBY6IRY-Nn0sOgp-Lwd2end7HQwqeCkfAh0NG3wUJSghexZ9BzcRdmEqLzovYTo9Gic6AyMmChgGfHc0GXYICnw_YyALORF4IDQhFws9JgIcBxkrNz8JOXY",
-                    "dataScale": [
-                        0.0007339766500094345,
-                        0.0007339766500094345,
-                        0.0007339766500094345
-                    ],
-                    "fileName": "/folder_1_beach_island.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/folder_1_beach_island.glb",
-                    "rotation": [
-                        0,
-                        0.47465862352807664,
-                        0,
-                        0.8801699785328012
-                    ],
-                    "scale": [
-                        4.044380994594994,
-                        4.044380994594994,
-                        4.044380994594994
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        -6.356836602310773,
-                        0.3620470768953044,
-                        -7.646655887177482
-                    ],
-                    "type": "3d"
-                }
-            },
+        
             
             {
                 "card": {
@@ -465,8 +396,8 @@
                     ],
                     "type": "3d"
                 }
-            }, */
-            {
+            }, 
+           {
                 "card": {
                     "cornerRadius": 0.02,
                     "fileName": "/Summer Sale Announcement Post-1.jpg",
@@ -602,39 +533,7 @@
                     "type": "3d"
                 }
             }, */
-            {
-                "card": {
-                    "cornerRadius": 0.02,
-                    "fileName": "/AdobeStock_439674303.jpeg",
-                    "fullBright": true,
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "img",
-                    "name": "/AdobeStock_439674303.jpeg",
-                    "rotation": [
-                        null,
-                        null,
-                        null,
-                        null
-                    ],
-                    "scale": [
-                        4,
-                        4,
-                        4
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "textureLocation": "3_kQDzamClw5KAyOil5cWHEWdIkUmQfFLalq6AqdBlsMR1tbX1wVAABJRkNKXAFaXAFMXUBeWkpbAUZAAFoAQUZgXWRpGRodR2FoekF8HV9BW2QZa359HWZeHQBMQEIBWkNbRlxGQgFDRkFLTgFNSl1BTl1LAUJGTF1AWUpdXEoAfhhISXdbQHdfVxxNW2sfTmYXGxYafG1LGUh-Y3xseh11RElAGnccZlZwFwBLTltOAH9JQ2VlZEBAbH5_V2FdV3ZITFcddUNqekJ7HmF6exZLfB0aHntWXEsXFkg",
-                    "textureType": "image",
-                    "translation": [
-                        -1.5153467846484223,
-                        -0.011999999254941773,
-                        -18.76863081050234
-                    ],
-                    "type": "2d"
-                }
-            },
+           
             {
                 "card": {
                     "cornerRadius": 0.02,
@@ -668,7 +567,7 @@
                     "type": "2d"
                 }
             },
-            {
+            /* {
                 "card": {
                     "cornerRadius": 0.02,
                     "fileName": "/AdobeStock_174946357.jpeg",
@@ -700,7 +599,7 @@
                     ],
                     "type": "2d"
                 }
-            },
+            }, */
             /* {
                 "card": {
                     "dataLocation": "3ul2ZNTYZBCjAFgMfk5PhZXvO6mRMgaKCNFs8HkopVjsHQEBBQZPWloTHBkQBlsABlsWBxoEABABWxwaWgBaGxw6Bz4zQ0BHHTsyIBsmRwUbAT5DMSQnRzwER1oWGhhbABkBHAYcGFsZHBsRFFsXEAcbFAcRWxgcFgcaAxAHBhBaJEISEy0BGi0FDUYXATFFFDxNQUxAJjcRQxIkOSY2IEcvHhMaQC1GPAwqTVoRFAEUWiM7GkIxJEBADRBHWEQDEyEjRh8YJRA-BhoPDTkYTTIQRgQPEVgwLzsbLxo",
@@ -769,41 +668,7 @@
                     "type": "2d"
                 }
             },
-            /* {
-                "card": {
-                    "dataLocation": "30zg_8Nqpe_IyqcLcCuG5aSI91a4HKNOker2jZt02ZeMWEREQEMKHx9WWVxVQx5FQx5TQl9BRVVEHllfH0UfXll_Qnt2BgUCWH53ZV5jAkBeRHsGdGFiAnlBAh9TX10eRVxEWUNZXR5cWV5UUR5SVUJeUUJUHl1ZU0JfRlVCQ1UfYQdXVmhEX2hASANSRHQAUXkIBAkFY3JUBldhfGNzZQJqW1ZfBWgDeUlvCB9UUURRH2laRkR6X1xaB15bRFVaB2oEVHcJcQVCf0J7eVd2SmNIc3pVc0BcYAICcwA",
-                    "dataScale": [
-                        13.889566591338182,
-                        13.889566591338182,
-                        13.889566591338182
-                    ],
-                    "fileName": "/mcfarlanes_dragons__sybaris_berserker_clan.glb",
-                    "layers": [
-                        "pointer"
-                    ],
-                    "modelType": "glb",
-                    "name": "/mcfarlanes_dragons__sybaris_berserker_clan.glb",
-                    "rotation": [
-                        0,
-                        0.9988089204951737,
-                        0,
-                        -0.04879283081833108
-                    ],
-                    "scale": [
-                        0.8091962049296048,
-                        0.8091962049296048,
-                        0.8091962049296048
-                    ],
-                    "shadow": true,
-                    "singleSided": true,
-                    "translation": [
-                        0.3297975749761519,
-                        -2.3788759949721046,
-                        -14.342672683552342
-                    ],
-                    "type": "3d"
-                }
-            },
+            /* 
             {
                 "card": {
                     "dataLocation": "3rXcfvIQS_pQ9jhuzelnLJBm5ihYh3QJVd8-wc6g-nDkGgYGAgFIXV0UGx4XAVwHAVwRAB0DBxcGXBsdXQddHBs9ADk0REdAGjw1JxwhQAIcBjlENiMgQDsDQF0RHR9cBx4GGwEbH1weGxwWE1wQFwAcEwAWXB8bEQAdBBcAARddI0UVFCoGHSoCCkEQBjZCEztKRktHITAWRBUjPiExJ0AoGRQdRypBOwstSl0WEwYTXRRCSxhFQhkiSiceQghGIioXQREbBRBGAi1HRjcKEQQ4AStDGgsLCEsqQzs",
