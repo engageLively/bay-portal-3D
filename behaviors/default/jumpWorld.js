@@ -40,9 +40,9 @@ class JumpWorldActor {
         const jumpAvatars = avatars.filter(avatar => this._distanceSquare(avatar) <= this._cardData.jumpDistance);
         const avatarsToJump = jumpAvatars.filter(avatar => this.jumpedAvatars.indexOf(avatar) < 0);
         
-        if (jumpAvatars.length > 0) {
+        if (avatarsToJump.length > 0) {
             
-            jumpAvatars.forEach(avatar => this.publish('global', 'jumpToTargetWorld', {viewId: avatar.playerId, targetURL: this._cardData.targetURL}));
+            avatarsToJump.forEach(avatar => this.publish('global', 'jumpToTargetWorld', {viewId: avatar.playerId, targetURL: this._cardData.targetURL}));
             this.jumpedAvatars = jumpAvatars;
         } else {
             this.jumpedAvatars = [];
