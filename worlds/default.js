@@ -22,7 +22,7 @@
         Constants.ExcludedSystemBehaviorModules = ["avatarEvents.js"];
         Constants.UserBehaviorDirectory = "behaviors/default";
         Constants.UserBehaviorModules = [
-            "avatarEvents.js", "csmLights.js", 'halloweenLights.js', 'jumpWorld.js', 'urlLink.js'
+            "avatarEvents.js", "canvasPawn.js", "csmLights.js", 'jumpWorld.js', 'synchronousLoad.js', 'urlLink.js'
         ];
     
         Constants.DefaultCards = [
@@ -38,8 +38,10 @@
                     placeholderSize: [400, 0.1, 400],
                     placeholderColor: 0x808080,
                     placeholderOffset: [0, 0, 0],
+                    timeout: 30000,
+                    // behaviorModules: ['PlaceholderPawn']
                     // behaviorModules: ['LoadCards']
-                    // behaviorModules: ['SynchronousCardLoader']
+                    behaviorModules: ['SynchronousCardLoader']
                 }
             },
             {
@@ -53,6 +55,24 @@
                     dataType: "jpg",
                 }
             },
+            /* {
+                card: {
+                    name: "canvas",
+                    translation: [0.568, -0.318, -0.957],
+                    rotation: [0, 0, 0],
+                    scale: [3, 3, 3],
+                    type: "2d",
+                    textureType: "canvas",
+                    textureWidth: 1024,
+                    textureHeight: 768,
+                    width: 1,
+                    height: 0.75,
+                    // color: 0xffffff,
+                    depth: 0.05,
+                    cornerRadius: 0.1,
+                    behaviorModules: ["CanvasPawn"],
+                }
+            }, */
            
             
             {
