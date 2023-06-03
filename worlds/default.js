@@ -205,7 +205,7 @@
                     shadow: true,
                     singleSided: true,
                     // textureLocation: "3YRRea1Kjzl1bhpnaZg5VRtrrXd2rs0LWS7HIKP4qO9EMS0tKSpjdnY_MDU8KncsKnc6KzYoLDwtdzA2dix2NzAWKxIfb2xrMRceDDcKayk3LRJvHQgLaxAoa3Y6NjR3LDUtMCowNHc1MDc9OHc7PCs3OCs9dzQwOis2LzwrKjx2CG4-PwEtNgEpIWo7LR1pOBBhbWBsChs9bz4IFQoaDGsDMj82bAFqECAGYXY9OC04dh50EQ8-DwAObAYJLBA7Gho4NjUzbBwQGBcbGioPbTMOdBhtCj49ND41FG0",
-                    textureLocation: "/assets/images/Halloween_Poster_with_arch.png",
+                    textureLocation: "./assets/images/Halloween_Poster_with_arch.png",
                     textureType: "image",
                     "translation": [
                         1.4328390765797603,
