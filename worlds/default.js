@@ -181,7 +181,7 @@
                     jumpCheckInterval: 50,
                     jumpDistance: 1,
                     translationAfterJump: [-49, -0.01, 123.46],
-                    targetURL: "https://engagelively.github.io/halloween-farm/?q=9y8pczo6w0#pw=wj16F7vGj3OK5u6LuY8eyA",
+                    targetURL: "https://engagelively.github.io/halloween-farm/?",
                     cornerRadius: 0.02,
                     fileName: "HALLOWEEN.png",
                     fullBright: true,
