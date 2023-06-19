@@ -613,7 +613,7 @@
                     "layers": [
                         "pointer"
                     ],
-                    cardURL: "https://www.target.com/p/marvel-spider-man-legends-series-peter-b-parker-action-figure/-/A-87012329",
+                    cardURL: "https://www.walmart.com/ip/Marvel-Legends-Series-Spider-Man-Across-the-Spider-Verse-Part-One-Peter-B-Parker-Action-Figure/855646280",
                     "modelType": "img",
                     "name": "/amazing-spider-man-2-spider-strike-shock-surge-spider-man-package.jpg",
                     "rotation": [
